@@ -1,5 +1,9 @@
 # NimGL Comparison
 
+Que es NimGL? NimGL es un conjunto de bibliotecas basadas en computo grafico. A estas bibliotecas se les conocen como
+bindings ya que conectan el lenguaje de programacion de C/C++ con Nim. El enfoque de esta prueba es ver si se
+tradujeron de manera correcta estas bibliotecass y se entienden los ejemplos que se dieron.
+
 ## Que se espera
 
 Este es un proyecto con un archivo escrito en C++ y otro en Nim, se intenta que hagan lo mismo ambos archivos
